@@ -1,5 +1,5 @@
 
-## 1. Zapoznanie sie
+## 1. Zapoznanie sie z wygladem z obrazka
 
 Na początku zapoznałem się z dostarczonymi wymaganiami oraz załączonymi obrazami. Celem było stworzenie statycznej strony internetowej z wykorzystaniem HTML i CSS, która będzie responsywna i dopasowana do wszystkich urządzeń, takich jak komputery, tablety i telefony. 
 
